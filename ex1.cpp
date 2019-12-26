@@ -9,5 +9,7 @@
 
     puts("hogehoge");
 
+    x = x*x;
+
      return 0;
  }
